@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reviews itemIdentifier="armorgames">
+  <review>
+    <reviewbody>Thank you. Please, make a tutorial. I'm looking to extract sprites from flash games, I need to use free tools.</reviewbody>
+    <reviewtitle>Please make a tuto</reviewtitle>
+    <reviewer>PERCE-NEIGE</reviewer>
+    <reviewer_itemname>@perce-neige</reviewer_itemname>
+    <reviewdate>2019-07-21 13:56:20</reviewdate>
+    <createdate>2019-07-21 13:56:20</createdate>
+    <stars>0</stars>
+  </review>
+  <review>
+    <reviewbody>Huge thanks for archiving all of these flash games. While I'm sure some may have problems, all that I have tested work fine with standalone flashplayer. </reviewbody>
+    <reviewtitle>Great Archive</reviewtitle>
+    <reviewer>AndersonHank</reviewer>
+    <reviewer_itemname>@andersonhank</reviewer_itemname>
+    <reviewdate>2020-03-07 16:24:52</reviewdate>
+    <createdate>2020-03-07 16:24:52</createdate>
+    <stars>5</stars>
+  </review>
+  <review>
+    <reviewtitle>I can't complete the download</reviewtitle>
+    <reviewbody>Sorry guys, I've tried loads of times to download the file but the download always stops. Could you please upload the zip file to another site, like mega upload or put it in a torrent file?</reviewbody>
+    <stars>2</stars>
+    <reviewer>Simone Aiello</reviewer>
+    <reviewdate>2020-12-22 11:15:58</reviewdate>
+    <createdate>2020-12-22 11:15:58</createdate>
+    <reviewer_itemname>@simone_aiello</reviewer_itemname>
+  </review>
+  <review>
+    <reviewtitle>Download link to .zip archive</reviewtitle>
+    <reviewbody>https://archive.org/compress/armorgames/formats=SHOCKWAVE FLASH&amp;file=/armorgames.zip
+
+Use a download manager, such as Free Download Manager, as this archive is 18.2 GBs</reviewbody>
+    <stars>5</stars>
+    <reviewer>xrated1984</reviewer>
+    <reviewdate>2022-04-19 04:07:29</reviewdate>
+    <createdate>2022-04-19 04:07:29</createdate>
+    <reviewer_itemname>@xmoorem</reviewer_itemname>
+  </review>
+  <review>
+    <reviewtitle>What a Flashback</reviewtitle>
+    <reviewbody>Amazing! This has some of the games I did play when bored in school. Makes me happy somebody took the time to try and archive old Flash content. Thanks!
+
+(Sorry for the terrible pun, btw)</reviewbody>
+    <stars>5</stars>
+    <reviewer>Reclezon</reviewer>
+    <reviewdate>2022-05-02 04:04:02</reviewdate>
+    <createdate>2022-05-02 04:04:02</createdate>
+    <reviewer_itemname>@reclezon</reviewer_itemname>
+  </review>
+  <review>
+    <reviewtitle>Fireboy and Watergirl</reviewtitle>
+    <reviewbody>You forgot to add the Fireboy and Watergirl games that were on ArmorGames for a while. If you have any, add them here.</reviewbody>
+    <stars>0</stars>
+    <reviewer>Dragonfly771</reviewer>
+    <reviewdate>2022-05-11 09:43:52</reviewdate>
+    <createdate>2022-05-11 09:43:52</createdate>
+    <reviewer_itemname>@dragonfly771</reviewer_itemname>
+  </review>
+  <review>
+    <reviewtitle>BearBarians and Swords &amp; Souls</reviewtitle>
+    <reviewbody>I tried running the bearbarians-1454405b0.swf file on the Adobe Flash Player Projector Content Debugger, and it was missing some necessary data.
+Here's the error I got for BearBarians:
+
+SecurityError: Error #2028: Local-with-filesystem SWF file file:///C|/Users/Zierin/OneDrive/Documents/Adobe%20Flash%20Player/BearBarians.swf cannot access Internet URL http://agi.armorgames.com/assets/agi/ABS.swf.
+	at flash.display::Loader/_load()
+	at flash.display::Loader/load()
+	at ABSmc()[/Users/JayArmstrong/Documents/BearBarians/ABSmc.as:27]
+	at flash.display::Sprite/constructChildren()
+	at flash.display::Sprite()
+	at flash.display::MovieClip()
+	at preLoader()[/Users/JayArmstrong/Documents/BearBarians/preLoader.as:10]
+	at flash.display::Sprite/constructChildren()
+	at flash.display::Sprite()
+	at flash.display::MovieClip()
+	at bearBarians_fla::MainTimeline()
+ 
+The Miniclip version (https://archive.org/details/bearbariansgame) has no such problems, but it censors all instances of blood with a sickly green substance.
+The Armor Games version is also available on Newgrounds (https://www.newgrounds.com/portal/view/611331), but as you might've guessed, not everybody has access to Newgrounds (I do, but that's beside the point).
+I've also tried Swords &amp; Souls, another game that I used to play on Armor Games. Contrary to my expectations, it worked, and all it was missing was some font data (namely, Estrangelo Edessa and Finger).
+
+TL;DR: BearBarians doesn't work.</reviewbody>
+    <stars>2</stars>
+    <reviewer>Zierin705</reviewer>
+    <reviewdate>2022-06-22 15:13:22</reviewdate>
+    <createdate>2022-06-22 15:13:22</createdate>
+    <reviewer_itemname>@zierin705</reviewer_itemname>
+  </review>
+  <review>
+    <reviewtitle>.</reviewtitle>
+    <reviewbody>@PERCE-NEIGE, or for anyone else who needs to extract sprites from a Flash game: Use JPEXS Flash Decompiler, its free and open sourced, and is the best decompiler around.</reviewbody>
+    <stars>0</stars>
+    <reviewer>timotai</reviewer>
+    <reviewdate>2022-07-18 14:07:59</reviewdate>
+    <createdate>2022-07-18 14:07:59</createdate>
+    <reviewer_itemname>@timotai</reviewer_itemname>
+  </review>
+  <review>
+    <reviewtitle>Thx man</reviewtitle>
+    <reviewbody>thx for your great job man</reviewbody>
+    <stars>5</stars>
+    <reviewer>Last69</reviewer>
+    <reviewdate>2022-11-17 22:17:48</reviewdate>
+    <createdate>2022-11-17 22:17:48</createdate>
+    <reviewer_itemname>@last69</reviewer_itemname>
+  </review>
+  <review>
+    <reviewtitle>Fantastic collection!</reviewtitle>
+    <reviewbody>Thank you so much for saving and making this collection available. Thanks for sharing it!</reviewbody>
+    <stars>5</stars>
+    <reviewer>BrendanSilva</reviewer>
+    <reviewdate>2023-08-10 17:51:11</reviewdate>
+    <createdate>2023-08-10 17:51:11</createdate>
+    <reviewer_itemname>@brendansilva</reviewer_itemname>
+  </review>
+  <info>
+    <num_reviews>10</num_reviews>
+    <avg_rating>4.14</avg_rating>
+  </info>
+</reviews>
